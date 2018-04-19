@@ -1,0 +1,8 @@
+D:\demo\Greet\Greet\bin\Debug\netcoreapp2.0\Greet.deps.json
+D:\demo\Greet\Greet\bin\Debug\netcoreapp2.0\Greet.dll
+D:\demo\Greet\Greet\bin\Debug\netcoreapp2.0\Greet.pdb
+D:\demo\Greet\Greet\obj\Debug\netcoreapp2.0\Greet.csproj.CoreCompileInputs.cache
+D:\demo\Greet\Greet\obj\Debug\netcoreapp2.0\Greet.AssemblyInfoInputs.cache
+D:\demo\Greet\Greet\obj\Debug\netcoreapp2.0\Greet.AssemblyInfo.cs
+D:\demo\Greet\Greet\obj\Debug\netcoreapp2.0\Greet.dll
+D:\demo\Greet\Greet\obj\Debug\netcoreapp2.0\Greet.pdb
