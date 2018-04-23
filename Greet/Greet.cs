@@ -2,11 +2,11 @@
 
 namespace Greet
 {
-    public class Greeting   
+    public class Greeting   : IGreeting
     {
         public string GetGreetingMessage()
         {
-            string message = "";
+            string message = String.Empty;
             if (DateTime.Now.Hour < 12)
             {
                 message = "Good Morning";
@@ -21,5 +21,11 @@ namespace Greet
             }
             return message;
         }
+    }
+
+    public interface IGreeting
+    {
+
+        String GetGreetingMessage();
     }
 }
